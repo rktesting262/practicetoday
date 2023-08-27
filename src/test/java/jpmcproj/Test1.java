@@ -9,7 +9,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("hi rk");
+		System.out.println("hi rk test1");
 		// TODO Auto-generated method stub
 		
 		//WebDriverManager.chromedriver().setup();

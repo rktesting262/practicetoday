@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="9966" started-at="2023-08-27T22:50:17 IST" finished-at="2023-08-27T22:50:27 IST">
+  <suite name="Suite" duration-ms="10614" started-at="2023-08-27T23:30:34 IST" finished-at="2023-08-27T23:30:44 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="9966" started-at="2023-08-27T22:50:17 IST" finished-at="2023-08-27T22:50:27 IST">
+    <test name="Test" duration-ms="10614" started-at="2023-08-27T23:30:34 IST" finished-at="2023-08-27T23:30:44 IST">
       <class name="jpmcproj.Test3">
-        <test-method status="PASS" signature="method1()[pri:0, instance:jpmcproj.Test3@757942a1]" name="method1" duration-ms="4332" started-at="2023-08-27T22:50:23 IST" finished-at="2023-08-27T22:50:27 IST">
+        <test-method status="PASS" signature="method1()[pri:0, instance:jpmcproj.Test3@757942a1]" name="method1" duration-ms="4954" started-at="2023-08-27T23:30:39 IST" finished-at="2023-08-27T23:30:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- method1 -->
       </class> <!-- jpmcproj.Test3 -->
       <class name="jpmcproj.Test2">
-        <test-method status="PASS" signature="method1()[pri:0, instance:jpmcproj.Test2@87f383f]" name="method1" duration-ms="5583" started-at="2023-08-27T22:50:17 IST" finished-at="2023-08-27T22:50:23 IST">
+        <test-method status="PASS" signature="method1()[pri:0, instance:jpmcproj.Test2@87f383f]" name="method1" duration-ms="5626" started-at="2023-08-27T23:30:34 IST" finished-at="2023-08-27T23:30:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- method1 -->
